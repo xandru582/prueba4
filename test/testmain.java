@@ -1,0 +1,3 @@
+class testmain{
+	sout("dsffd")
+}
